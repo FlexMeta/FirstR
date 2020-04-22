@@ -1,0 +1,5 @@
+cd d:/site
+git init
+git status
+git add .
+git commit -m "Firts commit"
